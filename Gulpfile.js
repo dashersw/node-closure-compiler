@@ -67,7 +67,7 @@ function compile() {
                         language_in: 'ECMASCRIPT6_TYPED',
                         assume_function_wrapper: true,
                         language_out: 'ECMASCRIPT5_STRICT',
-                        output_module_dependencies: 'dist/dependencies.json',
+                        // output_module_dependencies: 'dist/dependencies.json',
                         // preserve_type_annotations: true,
                         summary_detail_level: 3,
                         // new_type_inf: true,
